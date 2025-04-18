@@ -44,8 +44,8 @@ No machine learning, datasets, or external training required — just upload an 
 
 ### 1. Clone the repo
 ```bash
-git clone https://github.com/abinayagoudjandhyala/pharmashield.git
-cd pharmashield
+git clone https://github.com/abinayagoudjandhyala/Pharma_Shield.git
+cd Pharma_Shield
 ```
 
 ### 2. Install dependencies
